@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b8ad1e8d-98db-4978-ae91-24bbc20e6adc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/sofle.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/sofle.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/sofle.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/sofle.keymap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +25,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="attempted-reflash1" />
+                    <option name="lastUsedInstant" value="1707090781" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master-copy" />
                     <option name="lastUsedInstant" value="1707084781" />
@@ -59,7 +62,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master-copy",
+    "git-widget-placeholder": "attempted-reflash1",
     "last_opened_file_path": "/Users/ryanhartman/Projects/sofle-choc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -85,7 +88,7 @@
       <workItem from="1706335127009" duration="2749000" />
       <workItem from="1706547025375" duration="617000" />
       <workItem from="1706673275499" duration="3886000" />
-      <workItem from="1707084355209" duration="3771000" />
+      <workItem from="1707084355209" duration="4669000" />
     </task>
     <servers />
   </component>

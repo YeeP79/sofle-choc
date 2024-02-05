@@ -97,10 +97,10 @@
         raise_layer {
             label = "raise";
 // ------------------------------------------------------------------------------------------------------------
-// |       |      |      |       |       |      |                |      |         |       |         |       |       |
-// |       | INS  | PSCR | GUI   |       |      |                | PGUP |PREV_WORD|   ^   |NEXT_WORD|       |       |
-// |       | ALT  | CTRL | SHIFT |       | CAPS |                | PGDN |   <-    |   v   |  ->     |  DEL  | BKSPC |
-// |       | UNDO | CUT  | COPY  | PASTE |      |      |  |      |      |  HOME   |       |  END    |       |       |
+// |       |      |      |       |       |      |                |      |         |       |         |           |       |
+// |       | INS  | PSCR | GUI   |       |      |                | PGUP |PREV_WORD|   ^   |NEXT_WORD|DELETE_LINE|       |
+// |       | ALT  | CTRL | SHIFT |       | CAPS |                | PGDN |   <-    |   v   |  ->     |  DEL      | BKSPC |
+// |       | UNDO | CUT  | COPY  | PASTE |      |      |  |      |      |  HOME   |       |  END    |           |       |
 //                |      |       |       |      |      |  |      |      |         |       |         |
             bindings = <
 &none   &none       &none      &none        &none        &none                       &none      &none       &none     &none       &none         &none
